@@ -1,0 +1,8 @@
+2023-03-24 11:51:38.571 [info] update#setState idle
+2023-03-24 11:51:39.342 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-24 11:51:39.352 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10659]: successfully created
+2023-03-24 11:52:08.576 [info] update#setState checking for updates
+2023-03-24 11:52:08.578 [info] update#setState idle
+2023-03-24 11:53:39.635 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10659]: waiting to exit...
+2023-03-24 11:53:39.637 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10659]: received exit event with code 0
+2023-03-24 11:53:39.637 [info] Extension host with pid 10659 exited with code: 0, signal: unknown.
